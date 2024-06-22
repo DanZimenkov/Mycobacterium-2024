@@ -5,7 +5,8 @@ Supplementary and raw data for publication 'Comparative analysis of genome-genom
 
 - **genomes-471-315-1.txt**
 
-  list of used genomes with acession ids. n=471 for _Mycobacterium_, n=315 for other _Mycobacteriales_, and n=4 for _Microbactreium_
+  list of used genomes with acession ids.
+  n=471 for _Mycobacterium_, n=315 for other _Mycobacteriales_, and n=4 for _Microbactreium_
 
 - **pairwise-*.txt**
 
